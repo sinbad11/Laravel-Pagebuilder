@@ -1,11 +1,11 @@
 {
-    "name": "hansschouten/laravel-pagebuilder",
+    "name": "sinbad11/laravel-pagebuilder",
     "description": "A drag and drop pagebuilder to manage pages in any Laravel project.",
     "keywords": [
         "laravel",
         "pagebuilder"
     ],
-    "homepage": "https://github.com/HansSchouten/Laravel-Pagebuilder",
+    "homepage": "https://github.com/sinbad11/Laravel-Pagebuilder",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "hansschouten/phpagebuilder": "^0.12"
+        "sinbad11/phpagebuilder": "^0.12"
     },
     "autoload": {
         "psr-4": {
